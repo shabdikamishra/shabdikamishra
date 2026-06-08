@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**shabdikamishra/shabdikamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer passionate about building impactful software, exploring artificial intelligence, and contributing to research-driven innovation.
 
-Here are some ideas to get you started:
+💻 Full-Stack Development
+🤖 AI & Machine Learning
+🔬 Research & Innovation
+🚀 Open Source
+🌱 Lifelong Learner
 
-- 🔭 I’m currently working on PPE Monitor Detection
-- 🌱 I’m currently learning LLMs, Agentic AI, RAG Systems, Computer Vision
-- 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical solutions and continuously exploring new technologies and emerging trends.
+
+Thanks for visiting my profile!
