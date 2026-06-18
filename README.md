@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-Software Developer passionate about building impactful software, exploring artificial intelligence, and contributing to research-driven innovation.
+AI/ML Engineer dedicated to engineering transformative software. Committed to advancing research-driven innovation and building scalable artificial intelligence systems that drive measurable impact.
 
 ### 🚀 What I Do
 * 💻 **Full-Stack Development**
