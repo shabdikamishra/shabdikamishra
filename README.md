@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Profile Banner" width="100%">
 </p>
 
-## Hi there 👋
+## Hi, Shabdika this side! 
 
 AI/ML Engineer dedicated to engineering transformative software. Committed to advancing research-driven innovation and building scalable artificial intelligence systems that drive measurable impact.
 
