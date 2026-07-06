@@ -15,7 +15,7 @@ AI/ML Engineer dedicated to engineering transformative software. Committed to ad
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,react,nodejs,expressjs,jupyter,pytorch,fastapi,scikitlearn,ultralytics,opencv,docker,kaggle,mongodb,mysql,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,react,nodejs,expressjs,jupyternotebooks,colab,pytorch,fastapi,scikitlearn,opencv,docker,kaggle,mongodb,mysql,postgresql,git,github,vscode" />
 </p>
 
 I enjoy turning ideas into practical solutions and continuously exploring new technologies and emerging trends.
